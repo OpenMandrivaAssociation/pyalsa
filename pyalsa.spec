@@ -24,8 +24,4 @@ export CFLAGS="%{optflags} -fno-strict-aliasing"
     --prefix=%{_prefix}
 
 %files
-#%doc COPYING*
 %py_platsitedir/%{name}
-%py_platsitedir/*egg-info/*
-
-# %doc doc/*
