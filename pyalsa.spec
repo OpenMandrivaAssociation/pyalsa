@@ -25,3 +25,4 @@ export CFLAGS="%{optflags} -fno-strict-aliasing"
 
 %files
 %py_platsitedir/%{name}
+%py_platsitedir/*.egg-info
