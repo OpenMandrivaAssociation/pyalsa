@@ -26,3 +26,12 @@ export CFLAGS="%{optflags} -fno-strict-aliasing"
 %files
 %py_platsitedir/%{name}
 %py_platsitedir/*.egg-info
+
+
+%changelog
+* Thu Feb 09 2012 Alexander Khrukin <akhrukin@mandriva.org> 1.0.25-1
++ Revision: 772242
+- egg-info fix again
+- removed egg-info
+- imported package pyalsa
+
