@@ -1,10 +1,10 @@
 Name:           pyalsa
-Version:        1.0.26
-Release:        2
+Version:        1.0.29
+Release:        1
 License:        LGPL
 Group:          Development/Python
 Summary:        Python ALSA binding
-Source0:        pyalsa-%{version}.tar.bz2
+Source0:        ftp://ftp.alsa-project.org/pub/pyalsa/pyalsa-%{version}.tar.bz2
 BuildRequires:  python-devel
 BuildRequires:  pkgconfig(alsa)
 
