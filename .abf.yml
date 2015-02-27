@@ -1,4 +1,2 @@
-removed_sources:
-  pyalsa-1.0.25.tar.bz2: 8eb7e94bf096ca8bd3423214712d4e01f2012eb8
 sources:
-  pyalsa-1.0.26.tar.bz2: 169e2601f5273ec9ec4100d4ba31114e8a4b6d66
+  pyalsa-1.0.29.tar.bz2: 9beb926b7d9429eca43e8a11e8152e8f2a32f1d9
