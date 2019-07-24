@@ -1,6 +1,6 @@
 Name:           pyalsa
-Version:        1.0.29
-Release:        1
+Version:	1.1.6
+Release:	1
 License:        LGPL
 Group:          Development/Python
 Summary:        Python ALSA binding
