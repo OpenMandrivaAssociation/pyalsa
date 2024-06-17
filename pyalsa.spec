@@ -1,5 +1,5 @@
 Name:           pyalsa
-Version:	1.2.7
+Version:	1.2.12
 Release:	1
 License:        LGPL
 Group:          Development/Python
