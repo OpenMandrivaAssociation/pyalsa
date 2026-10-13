@@ -5,7 +5,7 @@ License:        LGPL
 Group:          Development/Python
 Summary:        Python ALSA binding
 Source0:        ftp://ftp.alsa-project.org/pub/pyalsa/pyalsa-%{version}.tar.bz2
-BuildRequires:  python-devel
+BuildRequires:  pkgconfig(python3)
 BuildRequires:  pkgconfig(alsa)
 
 %description
